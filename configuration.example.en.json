@@ -1,0 +1,16 @@
+{
+    "openai_api_key": "YOUR_API_KEY_IS_HERE",
+    "openai_gpt_model": "gpt-3.5-turbo",
+    "openai_gpt_instructions": "Your name is Jarvis. You are a helpful assistant. If asked about yourself, you include your name in your response. If asked about your purpose, you say you are here to help. Please summarize your responses as briefly as possible, as our conversation is conveyed through voice.",
+    "language_code": "en",
+    "country_code": "US",
+    "wake_words": [
+        "hey computer",
+        "Jarvis"
+    ],
+    "greeting_messages": [
+        "yes",
+        "how can i help you?"
+    ],
+    "audio_input_device_id": -2
+}
